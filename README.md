@@ -305,3 +305,10 @@ Once you receive your parts, it's relatively easy to solder them. Just watch a c
 Congrats on making your MIDI keypad :D If you liked this tutorial, you'll probably like some of my other work too and should consider [giving me a follow](https://github.com/KaiPereira) on GitHub and [starring the repository](https://github.com/KaiPereira/MIDI-Keypad) for this tutorial.
 
 Happy hacking, and I'd love it if you sent me your finished builds of your MIDI keypads on Slack (@Kai the Jolly Guy) or by email which you can find on [my website](https://kaipereira.com/). 
+
+
+Finished product: <img width="758" height="738" alt="image" src="https://github.com/user-attachments/assets/0c5b88b4-42f0-40c2-8bdb-e27e8a9c6122" />
+
+
+<img width="1540" height="1078" alt="image" src="https://github.com/user-attachments/assets/156dfb02-de59-4231-90bc-811498ec3a7a" />
+
